@@ -38,7 +38,6 @@ options
     out = &mylib..results
   ;
   run ;
-
 %mend read_dqc ;
 
 libname pcor "C:\Users\pardre1\documents\vdw\dq\data\pcornet_dq" ;
